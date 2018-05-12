@@ -1,0 +1,30 @@
+_repo: Miss-Ellis-s-Mission_38818
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, Mary P. Wells (Mary Prudence Wells)
+    aliases:
+    - Thorne, P.
+    - Smith, Mary Prudence Wells
+    birthdate: 1840
+    deathdate: 1930
+    gutenberg_agent_id: '39662'
+    url: http://www.gutenberg.org/2009/agents/39662
+description: ''
+gutenberg_issued: '2012-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ellis, Sarah, 1835-1885'
+- !lcsh 'Home missions -- United States -- Unitarian Church'
+- !lcc 'BV'
+title: Miss Ellis's Mission
+url: http://www.gutenberg.org/ebooks/38818
